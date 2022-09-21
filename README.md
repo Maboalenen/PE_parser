@@ -3,7 +3,8 @@ Portable Executable (PE) file header parser, lightweight parser for Windows port
 ------
 
 - Open file PE file
-|Parsing |
+
+|Parsing | 
 |--|
 | DOS HEADER |    
 | NT HEADERS |  
