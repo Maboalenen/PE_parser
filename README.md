@@ -1,2 +1,2 @@
 # PE_parser
-Parser for Windows portable executable files
+Portable Executable (PE) file header parser
