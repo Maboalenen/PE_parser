@@ -8,7 +8,8 @@ Portable Executable (PE) file header parser.
 |Parsing | 
 |--|
 | DOS HEADER |    
-| NT HEADERS |  
+| NT HEADERS | 
+| FILE HEADER | 
 | SECTION HEADERS |    
 | OPTIONAL HEADER |  
 | DATA DIRECTORIES |   
