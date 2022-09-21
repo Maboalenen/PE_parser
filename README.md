@@ -1,7 +1,7 @@
 # PE_parser
 Portable Executable (PE) file header parser, lightweight parser for Windows portable executable files.
 ------
-### Open file PE file
+### Open PE file
 
 |Parsing | 
 |--|
